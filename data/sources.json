@@ -1,0 +1,86 @@
+[
+  {
+    "source_id": "amul",
+    "url": "https://bbnow.bigbasket.com/pb/amul/chocolates/",
+    "retailer": "BigBasket / bbnow",
+    "brand": "Amul",
+    "retrieved_date": "2026-10-12",
+    "crawl_age_days_approx": 0,
+    "crawl_age_note": "today",
+    "method": "public web retrieval: opened indexed category page",
+    "location": "not exposed; unspecified",
+    "original_capture_sha256": "c34c61f3add02808ae722e06db39d4c7e37fd83b3eedbe6362effff1d39066f1"
+  },
+  {
+    "source_id": "nestle",
+    "url": "https://www.bigbasket.com/pb/nestle/chocolates-candies/",
+    "retailer": "BigBasket / bbnow",
+    "brand": "Nestle",
+    "retrieved_date": "2026-10-12",
+    "crawl_age_days_approx": 2,
+    "crawl_age_note": "2 days ago",
+    "method": "public web retrieval: opened indexed category page",
+    "location": "not exposed; unspecified",
+    "original_capture_sha256": "bafd032c349ee31a61157eea82e0275f7982ff3010f2caa13d9a18f2c8080a5d"
+  },
+  {
+    "source_id": "ferrero",
+    "url": "https://www.bigbasket.com/pb/ferrero-rocher/?nc=fa",
+    "retailer": "BigBasket / bbnow",
+    "brand": "Ferrero Rocher",
+    "retrieved_date": "2026-10-12",
+    "crawl_age_days_approx": 60,
+    "crawl_age_note": "2 months ago",
+    "method": "public web retrieval: opened indexed category page",
+    "location": "not exposed; unspecified",
+    "original_capture_sha256": "8770731c1e64c8b431ca70d99ea465afd168cb56afb71767d70632de3f4ed322"
+  },
+  {
+    "source_id": "silk",
+    "url": "https://www.bigbasket.com/pb/cadbury-dairy-milk-silk/?nc=fa",
+    "retailer": "BigBasket / bbnow",
+    "brand": "Cadbury",
+    "retrieved_date": "2026-10-12",
+    "crawl_age_days_approx": 90,
+    "crawl_age_note": "3 months ago",
+    "method": "public web retrieval: opened indexed category page",
+    "location": "not exposed; unspecified",
+    "original_capture_sha256": "8ba38e71d4846b3b0ef123655fa127ba83e0fcfc2dcb75f666371d0042796903"
+  },
+  {
+    "source_id": "dairymilk",
+    "url": "https://www.bigbasket.com/pb/cadbury-dairy-milk/chocolates-candies/",
+    "retailer": "BigBasket / bbnow",
+    "brand": "Cadbury",
+    "retrieved_date": "2026-10-12",
+    "crawl_age_days_approx": 5,
+    "crawl_age_note": "5 days ago",
+    "method": "public web retrieval: opened indexed category page",
+    "location": "not exposed; unspecified",
+    "original_capture_sha256": "d03d02be8dcff17778191907c96d97961c785d5111ca306dd7745c83cdebb687"
+  },
+  {
+    "source_id": "snickers",
+    "url": "https://www.bigbasket.com/pb/snickers//",
+    "retailer": "BigBasket / bbnow",
+    "brand": "Snickers",
+    "retrieved_date": "2026-10-12",
+    "crawl_age_days_approx": 30,
+    "crawl_age_note": "last month",
+    "method": "public web retrieval: search-result expanded page extract",
+    "location": "not exposed; unspecified",
+    "original_capture_sha256": "48f72036d31055440ebf980661611c018bf174ed63fd97000fbe663fe7e4421e"
+  },
+  {
+    "source_id": "hershey",
+    "url": "https://www.bigbasket.com/pb/hersheys/chocolates-candies/?nc=nb",
+    "retailer": "BigBasket / bbnow",
+    "brand": "Hershey's",
+    "retrieved_date": "2026-10-12",
+    "crawl_age_days_approx": 30,
+    "crawl_age_note": "last month",
+    "method": "public web retrieval: search-result expanded page extract",
+    "location": "not exposed; unspecified",
+    "original_capture_sha256": "56cd2befdb7a921707898fcca9f39d504e8c3b5ed6388a9bc1cf50794096eb74"
+  }
+]

@@ -1,0 +1,57 @@
+brand,format,flavor,n,mean_inr_per_100g,difference_from_brand_format_mean
+Amul,bar_other,no_named_inclusion,21,118.52,3.43
+Amul,bar_other,fruit,5,120.0,4.91
+Amul,bar_other,nuts,4,114.29,-0.81
+Amul,bar_other,spice_tea,1,40.0,-75.09
+Amul,bar_other,coffee,1,120.0,4.91
+Amul,bites_tubes,no_named_inclusion,4,81.05,-4.79
+Amul,bites_tubes,nuts,1,105.0,19.16
+Amul,gift_assortment,no_named_inclusion,1,102.86,0.0
+Amul,wafer,no_named_inclusion,1,66.67,0.0
+Cadbury,bar_other,no_named_inclusion,10,130.08,-17.64
+Cadbury,bar_other,nuts,8,141.9,-5.81
+Cadbury,bar_other,fruit,4,138.83,-8.88
+Cadbury,bar_other,cookie_brownie,4,158.3,10.58
+Cadbury,bar_other,dessert_specialty,1,365.36,217.64
+Cadbury,bar_other,coffee,1,138.89,-8.83
+Cadbury,bites_tubes,no_named_inclusion,4,100.05,-11.95
+Cadbury,bites_tubes,nuts,2,135.91,23.9
+Cadbury,gift_assortment,no_named_inclusion,8,207.62,-0.0
+Cadbury,wafer,no_named_inclusion,1,110.26,0.0
+Ferrero Rocher,bar_other,nuts,1,499.0,-27.72
+Ferrero Rocher,bar_other,no_named_inclusion,1,554.44,27.72
+Ferrero Rocher,bites_tubes,no_named_inclusion,2,258.95,-0.0
+Ferrero Rocher,gift_assortment,no_named_inclusion,4,333.71,0.0
+Hershey's,bar_other,fruit,4,154.45,-5.36
+Hershey's,bar_other,spice_tea,1,170.67,10.85
+Hershey's,bar_other,nuts,1,170.67,10.85
+Hershey's,bar_other,no_named_inclusion,1,168.67,8.85
+Hershey's,bar_other,cookie_brownie,1,163.56,3.74
+Hershey's,bar_other,coffee,1,168.67,8.85
+Hershey's,bites_tubes,nuts,5,148.32,-0.98
+Hershey's,bites_tubes,no_named_inclusion,4,146.7,-2.6
+Hershey's,bites_tubes,cookie_brownie,4,138.7,-10.6
+Hershey's,bites_tubes,fruit,1,184.69,35.39
+Nestle,bar_other,no_named_inclusion,6,77.37,-0.8
+Nestle,bar_other,fruit,1,50.0,-28.16
+Nestle,bar_other,caramel_butterscotch,1,111.11,32.95
+Nestle,bites_tubes,no_named_inclusion,1,83.33,0.0
+Nestle,filled_bar,caramel_butterscotch,1,52.63,0.0
+Nestle,gift_assortment,no_named_inclusion,1,77.18,0.0
+Nestle,wafer,no_named_inclusion,16,119.13,-2.73
+Nestle,wafer,nuts,4,92.47,-29.39
+Nestle,wafer,caramel_butterscotch,4,142.96,21.11
+Nestle,wafer,fruit,2,142.11,20.26
+Nestle,wafer,salt,1,165.18,43.32
+Nestle,wafer,cookie_brownie,1,130.0,8.15
+Snickers,bites_tubes,no_named_inclusion,2,122.47,-1.26
+Snickers,bites_tubes,nuts,1,126.26,2.53
+Snickers,bites_tubes,caramel_butterscotch,1,126.26,2.53
+Snickers,filled_bar,nuts,7,134.26,-4.31
+Snickers,filled_bar,caramel_butterscotch,4,154.26,15.69
+Snickers,filled_bar,cookie_brownie,2,139.77,1.21
+Snickers,filled_bar,fruit,1,168.75,30.18
+Snickers,gift_assortment,no_named_inclusion,3,195.59,19.9
+Snickers,gift_assortment,nuts,1,116.0,-59.7
+Snickers,gift_assortment,fruit,1,116.0,-59.7
+Snickers,gift_assortment,caramel_butterscotch,1,116.0,-59.7

@@ -1,0 +1,7 @@
+observation_id,title,reason
+amul_014,Amul Dark Compound Slab - Dco-18,baking ingredient or non-chocolate candy
+amul_022,Amul White Compound Slab - Wco-20,baking ingredient or non-chocolate candy
+amul_040,Amul Dark Chocolate Slab - Dch-47,baking ingredient or non-chocolate candy
+nestle_005,Nestle Polo Mint,baking ingredient or non-chocolate candy
+silk_020,Cadbury Dairy Milk Silk Dairy Milk Silk Chocolate Bar - Oreo Red Velvet,duplicate normalized title and total pack weight; first observed row retained
+hershey_001,Hershey's Kisses Milk Chocolate,incomplete search preview without a product card

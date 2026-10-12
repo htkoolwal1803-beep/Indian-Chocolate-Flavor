@@ -1,0 +1,26 @@
+[
+  {
+    "validation": "family_grouped",
+    "mae_improvement_full_vs_baseline": -9.226912135563781,
+    "lower95": -17.800776675268928,
+    "upper95": -0.8701702624093226
+  },
+  {
+    "validation": "unseen_brand",
+    "mae_improvement_full_vs_baseline": -1.0795084742397691,
+    "lower95": -4.609039782095529,
+    "upper95": 3.84349815844886
+  },
+  {
+    "validation": "recent_sources",
+    "mae_improvement_full_vs_baseline": -4.82126700754422,
+    "lower95": -11.55155888503251,
+    "upper95": 2.6023804099114036
+  },
+  {
+    "validation": "exclude_gifts",
+    "mae_improvement_full_vs_baseline": -4.675921734077843,
+    "lower95": -13.683468268162192,
+    "upper95": 5.353492689720671
+  }
+]

@@ -1,0 +1,138 @@
+observation_id,brand,title,family_group,price_per_100g,fold,global_median,brand_format_median,brand_format_ridge,full_ridge
+amul_001,Amul,Amul Dark Chocolate,Amul|amul|bar_other|no_named_inclusion,120.0,0,129.87012987012986,120.0,114.67440442949847,106.31353296445332
+amul_002,Amul,Amul Sugar Free Dark Chocolate,Amul|amul|bar_other|no_named_inclusion,120.0,0,129.87012987012986,120.0,114.67440442949847,106.31353296445332
+amul_003,Amul,Amul Almondo - Chocolate Coated Almonds,Amul|amul|bites_tubes|nuts,105.0,4,128.0,84.0909090909091,99.97191824628845,109.82436356516284
+amul_004,Amul,"Amul Fruit N Nut, Dark Chocolate- 55% Rich In Cocoa",Amul|amul|bar_other|nuts+fruit,120.0,4,128.0,120.0,113.04155872374557,132.75669933542295
+amul_005,Amul,Amul Chocominis,Amul|amul|bites_tubes|no_named_inclusion,56.0,2,121.75,105.0,115.8301302959701,114.23864139259278
+amul_006,Amul,"Amul Chocolate - Dark, Minis, Gable Top",Amul|amul|bites_tubes|no_named_inclusion,100.0,2,121.75,105.0,115.8301302959701,111.32673911088405
+amul_007,Amul,Amul Colombia Classique Black Single Origin Dark Chocolate,Amul|amul|bar_other|no_named_inclusion,120.0,0,129.87012987012986,120.0,114.67440442949847,106.28441086255775
+amul_008,Amul,Amul Tropical Orange Dark Chocolate,Amul|amul|bar_other|fruit,120.0,4,128.0,120.0,113.04155872374557,121.10658439094989
+amul_009,Amul,Amul Bitter Chocolate- 75% Rich In Cocoa,Amul|amul|bar_other|no_named_inclusion,120.0,0,129.87012987012986,120.0,114.67440442949847,103.76891195635497
+amul_010,Amul,Amul Milk Chocolate - Smooth & Creamy,Amul|amul|bar_other|no_named_inclusion,120.0,0,129.87012987012986,120.0,114.67440442949847,106.31353296445332
+amul_011,Amul,Amul Choco Cracker Chocolate - with Melt-In-Mouth Pop,Amul|amul|bar_other|no_named_inclusion,100.0,0,129.87012987012986,120.0,114.67440442949847,106.31353296445332
+amul_012,Amul,Amul Ivory Coast Grande Nuit Single Origin Dark Chocolate - 55% Rich in Cocoa,Amul|amul|bar_other|no_named_inclusion,112.0,0,129.87012987012986,120.0,114.67440442949847,103.74048689377526
+amul_013,Amul,Amul Peru Dark Amazon Single Origin Dark Chocolate - 55% Rich in Cocoa,Amul|amul|bar_other|no_named_inclusion,128.0,0,129.87012987012986,120.0,114.67440442949847,103.74048689377526
+amul_015,Amul,Amul Best Wishes Dark Chocolate,Amul|amul|bar_other|no_named_inclusion,133.33333333333334,0,129.87012987012986,120.0,114.67440442949847,106.31353296445332
+amul_016,Amul,Amul India Single Origin Dark Chocolate,Amul|amul|bar_other|no_named_inclusion,92.0,0,129.87012987012986,120.0,114.67440442949847,106.28441086255775
+amul_017,Amul,Amul Mystic Mocha Chocolate,Amul|amul|bar_other|coffee,120.0,1,125.0,120.0,112.48391748473011,121.48514565811865
+amul_018,Amul,Amul Tanzania Chocolate Noir Single Origin Dark Chocolate - 55% Rich in Cocoa,Amul|amul|bar_other|no_named_inclusion,120.0,0,129.87012987012986,120.0,114.67440442949847,103.74048689377526
+amul_019,Amul,"Amul Ecuador Tropical Dusk, Single Origin Dark Chocolate - 55% Dark",Amul|amul|bar_other|no_named_inclusion,128.0,0,129.87012987012986,120.0,114.67440442949847,103.74048689377526
+amul_020,Amul,Amul Madagascar Noir De Cacao Single Origin Dark Chocolate - 55% Rich in Cocoa,Amul|amul|bar_other|no_named_inclusion,120.0,0,129.87012987012986,120.0,114.67440442949847,103.74048689377526
+amul_021,Amul,Amul Almond Bar - Almond Marshmallow Coated Creamy Milk Chocolate,Amul|amul|bar_other|nuts,57.142857142857146,1,125.0,120.0,112.48391748473011,118.48033016650561
+amul_023,Amul,"Amul Chocolate - Milk, Minis, Gable Top",Amul|amul|bites_tubes|no_named_inclusion,100.0,2,121.75,105.0,115.8301302959701,111.32673911088405
+amul_024,Amul,Amul Belgian Chocolate - Smooth & Creamy,Amul|amul|bar_other|no_named_inclusion,128.0,0,129.87012987012986,120.0,114.67440442949847,106.28441086255775
+amul_025,Amul,Amul Happy Birthday Milk Chocolate,Amul|amul|bar_other|no_named_inclusion,133.33333333333334,0,129.87012987012986,120.0,114.67440442949847,106.31353296445332
+amul_026,Amul,Amul India Single Origin Milk Chocolate,Amul|amul|bar_other|no_named_inclusion,105.6,0,129.87012987012986,120.0,114.67440442949847,106.28441086255775
+amul_027,Amul,Amul I Love You Fruit N Nut Chocolate,Amul|amul|bar_other|nuts+fruit,133.33333333333334,4,128.0,120.0,113.04155872374557,131.8073650658619
+amul_028,Amul,Amul Chocolate - Super Fruit,Amul|amul|bar_other|fruit,113.33333333333331,4,128.0,120.0,113.04155872374557,121.10658439094989
+amul_030,Amul,Amul Venezuela Ebony Twist Single Origin Dark Chocolate - 55% Rich in Cocoa,Amul|amul|bar_other|no_named_inclusion,128.0,0,129.87012987012986,120.0,114.67440442949847,103.74048689377526
+amul_031,Amul,Amul Hazelnut Chocolate - Richly Nutty,Amul|amul|bar_other|nuts,146.66666666666666,1,125.0,120.0,112.48391748473011,117.17835637949139
+amul_032,Amul,Amul Choco Cracker - Magical Crystal With Milk Chocolate,Amul|amul|bar_other|no_named_inclusion,113.33333333333331,0,129.87012987012986,120.0,114.67440442949847,106.31353296445332
+amul_033,Amul,Amul 99% Cacao - Ultimate Dark Chocolate,Amul|amul|bar_other|no_named_inclusion,144.0,0,129.87012987012986,120.0,114.67440442949847,103.74048689377526
+amul_034,Amul,"Amul Green-T Chocolate - 55% Rich in Cocoa, Made from Green Tea Extracts",Amul|amul|bar_other|spice_tea,40.0,0,129.87012987012986,120.0,114.67440442949847,103.76891195635497
+amul_035,Amul,Amul Camel Milk Chocolate - Unique Treat Of Cocoa And Camel Milk,Amul|amul|bar_other|no_named_inclusion,83.33333333333333,0,129.87012987012986,120.0,114.67440442949847,106.31353296445332
+amul_036,Amul,Amul 90% Bitter Dark Chocolate,Amul|amul|bar_other|no_named_inclusion,120.0,0,129.87012987012986,120.0,114.67440442949847,103.76891195635497
+amul_037,Amul,Amul White Limon Chocolate,Amul|amul|bar_other|fruit,113.33333333333331,4,128.0,120.0,113.04155872374557,121.10658439094989
+amul_038,Amul,Amul Dark Passion Choc Wafers 300 g,Amul|amul|wafer|no_named_inclusion,66.66666666666667,3,125.6304347826087,120.0,116.82469274967417,117.89077808588068
+amul_039,Amul,Amul Truffles Centre Filled Milk & Dark Chocolates,Amul|amul|bites_tubes|no_named_inclusion,68.18181818181819,2,121.75,105.0,115.8301302959701,115.38488781443806
+nestle_001,Nestle,"Nestle Classic Chocolate - Rich Flavour, Delicious",Nestle|nestle|bar_other|no_named_inclusion,52.77777777777778,4,128.0,65.0,118.13216455893061,116.23684171002336
+nestle_002,Nestle,Nestle Minis Choco Coated Wafer Bars,Nestle|nestle|wafer|no_named_inclusion,86.48648648648648,1,125.0,111.875,98.41577275992499,86.97640225045953
+nestle_003,Nestle,Nestle Classic Home Treat Chocolates,Nestle|nestle|bites_tubes|no_named_inclusion,83.33333333333333,2,121.75,104.89864864864865,109.01339952216381,104.89670192453059
+nestle_004,Nestle,Nestle Munch Max Chocolate Coated Wafer Bar,Nestle|munch|wafer|no_named_inclusion,51.94805194805195,4,128.0,150.0,120.3187259133571,115.55111891691048
+nestle_006,Nestle,"Nestle Munch Nuts - Chocolate Coated Crunchy Wafer Bar, Home Pack",Nestle|munch|wafer|nuts,69.44444444444444,1,125.0,111.875,98.41577275992499,93.73529061799448
+nestle_007,Nestle,Nestle Classic Chocolate Bar,Nestle|nestle|bar_other|no_named_inclusion,71.42857142857143,4,128.0,65.0,118.13216455893061,110.91443918241532
+nestle_008,Nestle,Nestle Choo Strawberry Flavour White Chocolate Milkybar,Nestle|milkybar|bar_other|fruit,50.0,0,129.87012987012986,80.0,109.95927367249286,117.01738942558299
+nestle_009,Nestle,Nestle Milkybar White Chocolate,Nestle|milkybar|bar_other|no_named_inclusion,80.0,2,121.75,85.71428571428572,107.12601969479607,100.9865988982125
+nestle_010,Nestle,Nestle Milkybar Butterscotch Bite,Nestle|milkybar|bar_other|caramel_butterscotch,111.11111111111111,1,125.0,71.42857142857143,102.59552663228419,122.88895711376622
+nestle_011,Nestle,Nestle Munch Choco Coated Wafer Bites,Nestle|munch|wafer|no_named_inclusion,49.24242424242424,4,128.0,150.0,120.3187259133571,117.08986022122713
+nestle_012,Nestle,Nestle Munch Nuts Chocolate Coated Wafer,Nestle|munch|wafer|nuts,66.66666666666667,1,125.0,111.875,98.41577275992499,94.7676813018985
+nestle_014,Nestle,Nestle Kitkat Dessert Delight - Triple Dessert Pack,Nestle|kitkat|wafer|no_named_inclusion,100.0,1,125.0,111.875,98.41577275992499,86.65108436286944
+nestle_015,Nestle,Nestle Moosha Wheat Cocoa Crispies,Nestle|nestle|bar_other|no_named_inclusion,100.0,4,128.0,65.0,118.13216455893061,111.49739313409675
+nestle_016,Nestle,Nestle Munch Max Crunchies,Nestle|munch|wafer|no_named_inclusion,88.88888888888889,4,128.0,150.0,120.3187259133571,113.0662149753891
+nestle_017,Nestle,Nestle KitKat Delight Dark Minis Coated Wafer,Nestle|kitkat|wafer|no_named_inclusion,159.26640926640928,1,125.0,111.875,98.41577275992499,87.03826695283612
+nestle_018,Nestle,Nestle KitKat Delights Caramel Coated Wafer,Nestle|kitkat|wafer|caramel_butterscotch,160.0,3,125.6304347826087,117.39864864864865,104.97507902683151,94.97425704606566
+nestle_019,Nestle,"Nestle Chocolate Bar - Bar One, Nougat & Caramel Filled",Nestle|bar one|filled_bar|caramel_butterscotch,52.63157894736842,1,125.0,86.11111111111111,101.31969614634006,112.56163595994782
+nestle_020,Nestle,Nestle Kitkat Dessert Delight Heavenly Brownie Kubes Coated Wafer - Dark Chocolate,Nestle|kitkat|wafer|cookie_brownie,130.0,4,128.0,150.0,120.3187259133571,116.93402403983018
+nestle_021,Nestle,Nestle KitKat Minis Choco Coated Wafer Bars,Nestle|kitkat|wafer|no_named_inclusion,109.79729729729728,1,125.0,111.875,98.41577275992499,87.4103803308611
+nestle_022,Nestle,Nestle KitKat Delights Hazelnut Coated Wafer,Nestle|kitkat|wafer|nuts,140.0,2,121.75,125.0,108.3419798159716,111.90968046314538
+nestle_023,Nestle,Nestle KitKat Delights Salted Caramel Coated Wafer,Nestle|kitkat|wafer|caramel_butterscotch+salt,165.17857142857142,0,129.87012987012986,125.0,107.07729515872367,112.45100155339145
+nestle_024,Nestle,Nestle Munch Choco Coated Wafer Bar,Nestle|munch|wafer|no_named_inclusion,56.17977528089887,4,128.0,150.0,120.3187259133571,111.81456328973098
+nestle_025,Nestle,"Nestle KitKat Delights Rich, Choco-Coated Wafer Bar",Nestle|kitkat|wafer|no_named_inclusion,96.66666666666669,1,125.0,111.875,98.41577275992499,86.65108436286944
+nestle_026,Nestle,Nestle Choo Classic White Chocolate Milkybar,Nestle|milkybar|bar_other|no_named_inclusion,50.0,2,121.75,85.71428571428572,107.12601969479607,100.94315012418512
+nestle_027,Nestle,Nestle KitKat Chunky Chocolate Coated Wafer Bars,Nestle|kitkat|wafer|no_named_inclusion,175.0,1,125.0,111.875,98.41577275992499,86.56786569975571
+nestle_028,Nestle,Nestle Kitkat Chunky Miniatures Choco Coated Wafers,Nestle|kitkat|wafer|no_named_inclusion,157.93650793650792,1,125.0,111.875,98.41577275992499,86.85113569685264
+nestle_029,Nestle,Nestle KitKat Delights Dark Coated Wafer,Nestle|kitkat|wafer|no_named_inclusion,150.0,1,125.0,111.875,98.41577275992499,87.48768365462665
+nestle_030,Nestle,Nestle KitKat Delights Double Choco Coated Wafer,Nestle|kitkat|wafer|no_named_inclusion,174.6031746031746,1,125.0,111.875,98.41577275992499,87.37847063348943
+nestle_031,Nestle,Nestle KitKat Chunky Caramel Coated Wafer Bar,Nestle|kitkat|wafer|caramel_butterscotch,166.66666666666666,3,125.6304347826087,117.39864864864865,104.97507902683151,94.83960337187483
+nestle_032,Nestle,Nestle KitKat Raspberry Chocolate Coated Wafer,Nestle|kitkat|wafer|fruit,190.47619047619048,3,125.6304347826087,117.39864864864865,104.97507902683151,104.66253415188552
+nestle_033,Nestle,Nestle KitKat Chunky Choco Coated Wafer Bar,Nestle|kitkat|wafer|no_named_inclusion,175.0,1,125.0,111.875,98.41577275992499,87.57178654908759
+nestle_034,Nestle,Nestle Munch Butterscotch Max Wafer,Nestle|munch|wafer|caramel_butterscotch,80.0,4,128.0,150.0,120.3187259133571,124.46037883142218
+nestle_035,Nestle,"Nestle Munch - Fruit O' Nuts Chocolate Coated Crunchy Wafer Bar, Almond & Pomegranate",Nestle|munch|wafer|nuts+fruit,93.75,3,125.6304347826087,117.39864864864865,104.97507902683151,108.09026795311647
+nestle_036,Nestle,Nestle KitKat Pops,Nestle|kitkat|wafer|no_named_inclusion,125.0,1,125.0,111.875,98.41577275992499,87.63912707224891
+nestle_037,Nestle,Nestle Classic Milk Chocolate,Nestle|nestle|bar_other|no_named_inclusion,110.0,4,128.0,65.0,118.13216455893061,115.1665152835044
+nestle_038,Nestle,Nestle Kitkat Chunky White,Nestle|kitkat|wafer|no_named_inclusion,150.0,1,125.0,111.875,98.41577275992499,87.57178654908759
+ferrero_003,Ferrero Rocher,Ferrero Rocher Hazelnut Dark Chocolate Bar,Ferrero Rocher|ferrero rocher|bar_other|nuts,499.0,1,125.0,554.4444444444445,146.2289877145691,147.72897634145704
+ferrero_004,Ferrero Rocher,Ferrero Rocher Moments Chocolate,Ferrero Rocher|moments|bites_tubes|no_named_inclusion,267.17672413793105,1,125.0,554.4444444444445,133.1226530066687,123.79602153974031
+ferrero_006,Ferrero Rocher,Ferrero Rocher Moments Chocolates,Ferrero Rocher|moments|bites_tubes|no_named_inclusion,250.71839080459773,1,125.0,554.4444444444445,133.1226530066687,124.34917865946662
+ferrero_007,Ferrero Rocher,Ferrero Rocher Original Milk Chocolate,Ferrero Rocher|ferrero rocher|bar_other|no_named_inclusion,554.4444444444445,2,121.75,499.0,157.35133259756935,149.52977930679626
+silk_001,Cadbury,Cadbury Dairy Milk Silk Mousse Chocolate Bar,Cadbury|silk|bar_other|no_named_inclusion,154.72424242424242,2,121.75,138.88888888888889,123.3033446778873,120.01712924452427
+silk_002,Cadbury,Cadbury Dairy Milk Silk Fruit & Nut Chocolate Bar,Cadbury|silk|bar_other|nuts+fruit,158.33333333333334,4,128.0,142.30769230769232,137.4386707416079,152.80298022345502
+silk_003,Cadbury,Cadbury Dairy Milk Silk Ganache Chocolate Bar,Cadbury|silk|bar_other|no_named_inclusion,152.55474452554745,2,121.75,138.88888888888889,123.3033446778873,116.0954354111608
+silk_004,Cadbury,Cadbury Dairy Milk Silk Chocolate Bar,Cadbury|silk|bar_other|no_named_inclusion,140.6,2,121.75,138.88888888888889,123.3033446778873,118.37573241523131
+silk_005,Cadbury,Cadbury Dairy Milk Silk Mini Treats Chocolate Bar,Cadbury|silk|bites_tubes|no_named_inclusion,111.5506172839506,3,125.6304347826087,147.71890547263683,133.99942079614402,129.31371050570843
+silk_006,Cadbury,Cadbury Dairy Milk Silk Oreo Chocolate Bar,Cadbury|silk|bar_other|cookie_brownie,158.7715053763441,2,121.75,138.88888888888889,123.3033446778873,137.69705659957899
+silk_007,Cadbury,Cadbury Dairy Milk Silk Roast Almond Chocolate Bar,Cadbury|silk|bar_other|nuts,146.9228855721393,1,125.0,139.74444444444444,131.7485047979019,126.94063267334741
+silk_009,Cadbury,Cadbury Dairy Milk Silk Desserts Walnut Brownie Chocolate Bar,Cadbury|silk|bar_other|nuts+cookie_brownie,162.10714285714286,0,129.87012987012986,142.30769230769232,135.44954772024212,142.09046812854763
+silk_010,Cadbury,Cadbury Dairy Milk Silk Bubbly Chocolate Bar,Cadbury|silk|bar_other|no_named_inclusion,175.54347826086956,2,121.75,138.88888888888889,123.3033446778873,116.11542112839582
+silk_011,Cadbury,Cadbury Dairy Milk Silk Hazelnut Chocolate Bar,Cadbury|silk|bar_other|nuts,148.51492537313433,1,125.0,139.74444444444444,131.7485047979019,128.58560907658617
+silk_012,Cadbury,Cadbury Dairy Milk Silk Desserts Plum Cake Chocolate Bar,Cadbury|silk|bar_other|fruit+cookie_brownie,170.0,1,125.0,139.74444444444444,131.7485047979019,156.97948391174404
+silk_013,Cadbury,Cadbury Dairy Milk Silk Chocolate Bar - Roasted Almond,Cadbury|silk|bar_other|nuts,145.45454545454547,1,125.0,139.74444444444444,131.7485047979019,131.2443686522387
+silk_018,Cadbury,Cadbury Dairy Milk Silk Dairy Milk Silk Chocolate Bar - Sparkles Edition,Cadbury|silk|bar_other|no_named_inclusion,129.87012987012986,2,121.75,138.88888888888889,123.3033446778873,117.98921105649788
+silk_019,Cadbury,Cadbury Dairy Milk Silk Oreo Red Velvet Chocolate Bar,Cadbury|silk|bar_other|cookie_brownie,142.30769230769232,2,121.75,138.88888888888889,123.3033446778873,132.07891025185737
+silk_021,Cadbury,Cadbury Dairy Milk Silk Cadbury Dairy Milk Silk Dubai Kunafa Chocolate Bar,Cadbury|silk|bar_other|dessert_specialty,365.3571428571428,2,121.75,138.88888888888889,123.3033446778873,116.15540288502399
+dairymilk_001,Cadbury,Cadbury Dairy Milk Family Pack Chocolate Bar,Cadbury|cadbury|bar_other|no_named_inclusion,103.57142857142856,3,125.6304347826087,147.71890547263683,146.43507654167797,135.2595082611495
+dairymilk_002,Cadbury,Cadbury Dairy Milk Mini Treats Chocolate Bars,Cadbury|cadbury|bites_tubes|no_named_inclusion,102.66785714285716,3,125.6304347826087,147.71890547263683,133.99942079614402,126.47853483415938
+dairymilk_003,Cadbury,Cadbury Dairy Milk Shots Chocolate Balls,Cadbury|cadbury|bites_tubes|no_named_inclusion,62.5,3,125.6304347826087,147.71890547263683,133.99942079614402,120.69326144736719
+dairymilk_004,Cadbury,Cadbury Dairy Milk Fruit & Nut Chocolate Bar,Cadbury|cadbury|bar_other|nuts+fruit,101.99555555555555,4,128.0,142.30769230769232,137.4386707416079,156.2334434036926
+dairymilk_005,Cadbury,Cadbury Dairy Milk Crackle Chocolate Bar,Cadbury|cadbury|bar_other|no_named_inclusion,138.88888888888889,3,125.6304347826087,147.71890547263683,146.43507654167797,133.4486343312819
+dairymilk_006,Cadbury,Cadbury Dairy Milk Dairy Milk - Chocolate Bar,Cadbury|cadbury|bar_other|no_named_inclusion,79.36507936507937,3,125.6304347826087,147.71890547263683,146.43507654167797,132.74757031509614
+dairymilk_007,Cadbury,Cadbury Dairy Milk Tango Mango Chocolate Bar,Cadbury|cadbury|bar_other|fruit,125.0,2,121.75,138.88888888888889,123.3033446778873,124.54309715907904
+dairymilk_008,Cadbury,Cadbury Dairy Milk Roast Almond Chocolate Bar,Cadbury|cadbury|bar_other|nuts,133.0,1,125.0,139.74444444444444,131.7485047979019,130.99239866684434
+dairymilk_009,Cadbury,Cadbury Dairy Milk Crackle Chocolate Bar,Cadbury|cadbury|bar_other|no_named_inclusion,133.0,3,125.6304347826087,147.71890547263683,146.43507654167797,134.3748495290672
+dairymilk_010,Cadbury,Cadbury Dairy Milk Mini Treats Chocolate Bar,Cadbury|cadbury|bites_tubes|no_named_inclusion,123.5,3,125.6304347826087,147.71890547263683,133.99942079614402,122.46128876749314
+dairymilk_011,Cadbury,Cadbury Dairy Milk Crispello Chocolate Bar,Cadbury|cadbury|wafer|no_named_inclusion,110.25714285714284,3,125.6304347826087,147.71890547263683,149.73342927817492,136.54892023664584
+dairymilk_012,Cadbury,Cadbury Dairy Milk Almond Chocolate Coated Bites,Cadbury|cadbury|bites_tubes|nuts,135.14814814814815,3,125.6304347826087,147.71890547263683,133.99942079614402,126.18068692455203
+dairymilk_013,Cadbury,Cadbury Dairy Milk Mocha Almond Chocolate,Cadbury|cadbury|bar_other|nuts+coffee,138.88888888888889,0,129.87012987012986,142.30769230769232,135.44954772024212,149.0470147130856
+dairymilk_014,Cadbury,Cadbury Dairy Milk Limited Edition Pack Chocolate Bar,Cadbury|cadbury|bar_other|no_named_inclusion,92.6829268292683,3,125.6304347826087,147.71890547263683,146.43507654167797,135.5236363244244
+dairymilk_016,Cadbury,Cadbury Dairy Milk Hazelnut Chocolate Coated Bites,Cadbury|cadbury|bites_tubes|nuts,136.66666666666666,3,125.6304347826087,147.71890547263683,133.99942079614402,125.64475384873097
+snickers_001,Snickers,Snickers Duos Peanut Filled Chocolate Bar,Snickers|snickers|filled_bar|nuts,110.0,3,125.6304347826087,150.0,131.8525791703347,135.79260104384943
+snickers_002,Snickers,Snickers Minis Chocolate Pack,Snickers|snickers|bites_tubes|no_named_inclusion,122.57246376811594,2,121.75,126.2608695652174,132.53335470981483,123.88997664143312
+snickers_003,Snickers,Snickers Minis Chocolate Pack,Snickers|snickers|bites_tubes|no_named_inclusion,122.3671497584541,2,121.75,126.2608695652174,132.53335470981483,123.1564201545163
+snickers_006,Snickers,"Snickers Berry Whip Flavoured Chocolate Bar - Loaded With Crunchy Peanuts, Nougat & Caramel",Snickers|snickers|filled_bar|nuts+fruit+caramel_butterscotch,168.75,2,121.75,139.77272727272725,124.73563973559095,141.9190315690073
+snickers_008,Snickers,"Snickers Minis Chocolate Pack, Loaded With Peanuts, Nougat, & Caramel, 6 Treats Inside",Snickers|snickers|bites_tubes|nuts+caramel_butterscotch,126.2608695652174,4,128.0,122.46980676328502,125.25785815992269,141.4789786718474
+snickers_009,Snickers,Snickers Almond Filled Chocolate Bar,Snickers|snickers|filled_bar|nuts,172.5,3,125.6304347826087,150.0,131.8525791703347,134.83269895384885
+snickers_010,Snickers,"Snickers Peanut Brownie Chocolate Bar - Loaded With Brownie, Peanuts & Caramel",Snickers|snickers|filled_bar|nuts+caramel_butterscotch+cookie_brownie,150.0,4,128.0,129.54545454545453,128.30682291586015,143.58357221094636
+snickers_011,Snickers,Snickers Butterscotch Flavoured Chocolate Bar,Snickers|snickers|filled_bar|caramel_butterscotch,168.75,3,125.6304347826087,150.0,131.8525791703347,120.83977018629969
+snickers_012,Snickers,Snickers Duo Peanut Filled Chocolate Bar,Snickers|snickers|filled_bar|nuts,79.44444444444444,3,125.6304347826087,150.0,131.8525791703347,135.60007547716216
+snickers_013,Snickers,"Snickers Butterscotch Flavoured Chocolate Bar - Loaded With Crunchy Peanuts, Nougat & Caramel",Snickers|snickers|filled_bar|nuts+caramel_butterscotch,129.54545454545453,2,121.75,139.77272727272725,124.73563973559095,129.61045819639352
+snickers_015,Snickers,Snickers Peanut Brownie Filled Chocolate Bar,Snickers|snickers|filled_bar|nuts+cookie_brownie,129.54545454545453,3,125.6304347826087,150.0,131.8525791703347,148.3599952173957
+hershey_002,Hershey's,Hershey's Creamy Milk Choco Tubes,Hershey's|hershey's|bites_tubes|no_named_inclusion,84.7457627118644,0,129.87012987012986,163.14935064935065,138.84664416359243,132.50819160614185
+hershey_003,Hershey's,Hershey's Cookies 'N' Creme Choco Tubes,Hershey's|hershey's|bites_tubes|cookie_brownie,84.7457627118644,1,125.0,163.14935064935065,136.07480016219722,151.79982246739553
+hershey_004,Hershey's,Hershey's Kisses Almonds Chocolate,Hershey's|kisses|bites_tubes|nuts,160.7142857142857,3,125.6304347826087,132.03703703703704,130.95352522597216,131.35705509035128
+hershey_005,Hershey's,Hershey's Exotic Dark Chocolate Raspberry & Goji,Hershey's|exotic|bar_other|fruit,150.15,2,121.75,168.66666666666669,138.52330368576855,143.903358710328
+hershey_006,Hershey's,Hershey's Exotic Dark Flavored Center Chocolate - Blueberry & Acai,Hershey's|exotic|bar_other|fruit,148.5,2,121.75,168.66666666666669,138.52330368576855,143.903358710328
+hershey_007,Hershey's,Hershey's Kisses Milk Chocolate,Hershey's|kisses|bites_tubes|no_named_inclusion,132.03703703703704,4,128.0,160.7142857142857,131.43898652048077,127.73723888947144
+hershey_008,Hershey's,Hershey's Kisses Cookies 'N' Creme Chocolate,Hershey's|kisses|bites_tubes|cookie_brownie,183.7797619047619,4,128.0,160.7142857142857,131.43898652048077,128.91171431451602
+hershey_009,Hershey's,Hershey's Kisses Cookies 'N' Creme Chocolate,Hershey's|kisses|bites_tubes|cookie_brownie,159.3073593073593,4,128.0,160.7142857142857,131.43898652048077,131.2704067480573
+hershey_010,Hershey's,Hershey's Exotic Dark Flavored Center Chocolates - Pomegranate,Hershey's|exotic|bar_other|fruit,148.5,2,121.75,168.66666666666669,138.52330368576855,143.903358710328
+hershey_011,Hershey's,Hershey's Bars Dark N Rich Coffee Flavour,Hershey's|hershey's|bar_other|coffee,168.66666666666669,4,128.0,156.85277777777776,148.62241491396145,149.0263634057919
+hershey_012,Hershey's,Hershey's Cookies 'N' Creme Chocolate Bar,Hershey's|hershey's|bar_other|cookie_brownie,163.55555555555554,3,125.6304347826087,159.40833333333336,143.10651028142047,155.3864208953868
+hershey_013,Hershey's,Hershey's Special Dark Chocolate Bar,Hershey's|hershey's|bar_other|no_named_inclusion,168.66666666666669,2,121.75,168.66666666666669,138.52330368576855,131.6037889419327
+hershey_014,Hershey's,Hershey's Kisses Hazelnut 'N' Cookies Chocolate,Hershey's|kisses|bites_tubes|nuts+cookie_brownie,126.984126984127,2,121.75,163.14935064935065,140.9638507138549,164.50352644913073
+hershey_015,Hershey's,Hershey's Kisses Special Dark 'N' Almonds Chocolate,Hershey's|kisses|bites_tubes|nuts,165.58441558441558,3,125.6304347826087,132.03703703703704,130.95352522597216,132.7340347064215
+hershey_016,Hershey's,Hershey's Kisses Center Filled Choco Truffle,Hershey's|kisses|bites_tubes|no_named_inclusion,180.0,4,128.0,160.7142857142857,131.43898652048077,125.27967463984213
+hershey_017,Hershey's,Hershey's Kisses Strawberry Crème,Hershey's|kisses|bites_tubes|fruit,184.69135802469137,3,125.6304347826087,132.03703703703704,130.95352522597216,129.59360559034192
+hershey_018,Hershey's,Hershey's Choco Tubes - Almonds,Hershey's|hershey's|bites_tubes|nuts,84.7457627118644,4,128.0,160.7142857142857,131.43898652048077,135.45238897702737
+hershey_019,Hershey's,Hershey's Kisses - Milk Chocolate,Hershey's|kisses|bites_tubes|no_named_inclusion,190.0,4,128.0,160.7142857142857,131.43898652048077,125.45363604820521
+hershey_020,Hershey's,Hershey's Kisses - Almond,Hershey's|kisses|bites_tubes|nuts,203.57142857142856,3,125.6304347826087,132.03703703703704,130.95352522597216,131.6509145293209
+hershey_021,Hershey's,Hershey's Exotic Dark Californian Almonds Chocolate - Seasoned With Guava & Mexican Chili Flavor,Hershey's|exotic|bar_other|nuts+fruit+spice_tea,170.66666666666666,0,129.87012987012986,156.85277777777776,152.78421230614865,162.19285881161346

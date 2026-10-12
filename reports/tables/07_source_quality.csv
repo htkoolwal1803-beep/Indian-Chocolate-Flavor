@@ -1,0 +1,8 @@
+source_id,brand,crawl_age_days_approx,retained_listings,missing_prices,missing_ratings,missing_weights
+silk,Cadbury,90,24,2,3,0
+ferrero,Ferrero Rocher,60,8,0,3,0
+hershey,Hershey's,30,20,0,1,0
+snickers,Snickers,30,15,0,2,0
+dairymilk,Cadbury,5,18,2,0,0
+nestle,Nestle,2,39,2,2,0
+amul,Amul,0,37,0,2,0
